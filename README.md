@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **open source projects**
 - <div>
-  <img align = "right" src = "https://media.tenor.com/rlU1iHrbvv8AAAAM/aizen.gif" height = "250" width = "200"/>
+  <img align = "right" src = "https://media1.tenor.com/m/VdixkA4ki9IAAAAd/aizen.gif" height = "350" width = "300"/>
 </div>
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
@@ -22,6 +22,7 @@
 
 <h3 align="left">Languages</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<h4 align = "right">Welcome to my Github!!</h4>
 <h3 align = "left">Frameworks</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 
