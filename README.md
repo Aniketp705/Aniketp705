@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **open source projects**
 - <div>
-  <img align = "right" src = "https://media1.tenor.com/m/VdixkA4ki9IAAAAd/aizen.gif" height = "350" width = "300"/>
+  <img align = "right" src = "https://media1.tenor.com/m/VdixkA4ki9IAAAAd/aizen.gif" height = "350" width = "290"/>
 </div>
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
