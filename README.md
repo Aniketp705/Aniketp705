@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **open source projects**
 - <div>
-  <img align = "right" src = "https://media1.tenor.com/m/VdixkA4ki9IAAAAd/aizen.gif" height = "350" width = "290"/>
+  <a href = "https://bleach.fandom.com/wiki/S%C5%8Dsuke_Aizen"><img align = "right" src = "https://media1.tenor.com/m/VdixkA4ki9IAAAAd/aizen.gif" height = "350" width = "290"/></a>
 </div>
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
