@@ -70,6 +70,7 @@ I'm a passionate developer focused on building end-to-end applications powered b
         <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
         <a href="https://streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/></a>
         <a href="https://console.firebase.google.com" target="_blank"><img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" width="40" height="40"/></a>
+        <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Firebase" width="40" height="40"/></a>
       </p>
     </td>
     <td align="center" valign="top">
