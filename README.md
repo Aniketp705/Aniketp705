@@ -89,8 +89,8 @@ I'm a passionate developer focused on building end-to-end applications powered b
 
 ---
 
-<h3 align="center">My GitHub Stats</h3>
+<!-- <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketp705&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Aniket's GitHub Stats" />
-</p>
+</p> -->
