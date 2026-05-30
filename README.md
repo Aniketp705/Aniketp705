@@ -2,9 +2,9 @@
 
 # Hi there <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" height="40" width="40"/>, I'm Aniket
 
-### Aspiring Machine Learning Engineer | Python Developer | B.Tech CSE Student (2026)
+### AI/ML Engineer | Generative AI Solutions | Full-Stack & Systems Developer (2026)
 
-I'm a passionate developer focused on building end-to-end applications powered by machine learning and generative AI. I enjoy turning complex data into actionable insights and creating intelligent solutions.
+I'm an AI/ML Engineer focused on architecting end-to-end applications powered by deep learning, computer vision, and generative AI. From custom ML modeling to real-time WebRTC media pipelines and multi-tenant cloud infrastructure, I build scalable intelligent solutions.
 
 <p>
   <a href="https://www.linkedin.com/in/aniketpawar705/" target="_blank">
@@ -24,11 +24,11 @@ I'm a passionate developer focused on building end-to-end applications powered b
     <td valign="top">
       <h3>⚡ About Me</h3>
       <ul>
-        <li>🔭 I’m currently building full-stack <b>Machine Learning applications</b>.</li>
-        <li>🌱 My primary tools are <b>Python</b>, <b>Scikit-learn</b>, and <b>TensorFlow</b>.</li>
-        <li>👯 I’m open to collaborating on <b>open-source AI projects</b> and data-driven web apps.</li>
-        <li>💬 Ask me about anything, I'm happy to help!</li>
-        <li>😄 Fun fact: When I'm not coding, I'm usually watching anime.</li>
+        <li>🔭 I’m currently engineering a <b>Multi-Interviewer AI Interview Platform</b> featuring real-time WebRTC sync, AI cheating detection, and dynamic multi-tenancy.</li>
+        <li>🌱 Advanced focus on <b>Deep Learning (CNNs, NLP)</b>, <b>Dynamic Multi-Tenant Databases</b>, and production system architecture.</li>
+        <li>👯 I specialize in deploying apps with secure reverse proxies (**Nginx**), **Wildcard SSL certificates**, and production process daemons (**PM2**).</li>
+        <li>💬 Talk to me about GenAI integration, Git workflows, real-time sockets, and astrophysics!</li>
+        <li>😄 Fun fact: When I'm not configuring VPS infrastructure or optimizing tensors, I'm probably managing the college Anime Club.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -54,33 +54,35 @@ I'm a passionate developer focused on building end-to-end applications powered b
       </p>
     </td>
     <td align="center" valign="top">
-      <h4>AI/ML & Data Science</h4>
+      <h4>AI/ML & Generative AI</h4>
       <p align="center">
         <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
         <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/></a>
         <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
         <a href="https://numpy.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="40" height="40"/></a>
-        <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+        <a href="https://openai.com/" target="_blank"><img src="https://www.svgrepo.com/show/306500/openai.svg" alt="OpenAI" width="40" height="40"/></a>
+        <a href="https://gemini.google/about/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/250px-Google_Gemini_icon_2025.svg.png" alt="Gemini" width="40" height="40"/></a>
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <h4>Frameworks & Backend</h4>
+      <h4>Frameworks & Real-Time Engine</h4>
       <p align="center">
-        <!-- <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a> -->
+        <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/></a>
         <a href="https://streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/></a>
-        <a href="https://console.firebase.google.com" target="_blank"><img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" width="40" height="40"/></a>
-        <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Firebase" width="40" height="40"/></a>
+        <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40"/></a>
+        <a href="https://livekit.io/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/livekit.webp" alt="LiveKit" width="40" height="40" onerror="this.src='https://www.svgrepo.com/show/353925/livekit.svg'"/></a>
       </p>
     </td>
     <td align="center" valign="top">
-      <h4>Tools & Platforms</h4>
+      <h4>DevOps, Tools & Infrastructure</h4>
       <p align="center">
         <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
         <a href="https://github.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" width="40" height="40"/></a>
         <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" height="40"/></a>
+        <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
+        <a href="https://pm2.keymetrics.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pm2/pm2-original.svg" alt="PM2" width="40" height="40" onerror="this.src='https://www.svgrepo.com/show/354167/pm2.svg'"/></a>
         <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
       </p>
     </td>
@@ -88,9 +90,3 @@ I'm a passionate developer focused on building end-to-end applications powered b
 </table>
 
 ---
-
-<!-- <h3 align="center">My GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketp705&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Aniket's GitHub Stats" />
-</p> -->
