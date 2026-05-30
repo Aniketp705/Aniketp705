@@ -26,7 +26,7 @@ I'm an AI/ML Engineer focused on architecting end-to-end applications powered by
       <ul>
         <li>🔭 I’m currently engineering a <b>Multi-Interviewer AI Interview Platform</b> featuring real-time WebRTC sync, AI cheating detection, and dynamic multi-tenancy.</li>
         <li>🌱 Advanced focus on <b>Deep Learning (CNNs, NLP)</b>, <b>Dynamic Multi-Tenant Databases</b>, and production system architecture.</li>
-        <li>👯 I specialize in deploying apps with secure reverse proxies (**Nginx**), **Wildcard SSL certificates**, and production process daemons (**PM2**).</li>
+        <li>👯 I specialize in deploying apps with secure reverse proxies (<b>Nginx</b>), <b>Wildcard SSL certificates</b>, and production process daemons (<b>PM2</b>).</li>
         <li>💬 Talk to me about GenAI integration, Git workflows, real-time sockets, and astrophysics!</li>
         <li>😄 Fun fact: When I'm not configuring VPS infrastructure or optimizing tensors, I'm probably managing the college Anime Club.</li>
       </ul>
